@@ -1,1 +1,3 @@
-const yarg = require("yargs")
+const string = "This is node js server"
+
+console.log(string,"String")
